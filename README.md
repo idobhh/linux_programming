@@ -1,2 +1,2 @@
 # linux system programming
-> introduction to the linux system call interface
+> introduction to the Linux system call interface and also to key components of the standard C library
