@@ -1,2 +1,2 @@
 # Input/Output
-> open | read | write
+> copy file using low level I/O and standard I/O library
